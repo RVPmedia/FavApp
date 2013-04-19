@@ -21,7 +21,6 @@ html, body, #container { height: 100%; }
 button { border:none; cursor:pointer; }
 #container { height: 100%; min-height: 100%;}
 a { color:inherit; text-decoration:inherit; }
-* { box-sizing:border-box; -moz-box-sizing:border-box; }
 
 #in5footer{
 	width:100%;
@@ -49,6 +48,8 @@ a { color:inherit; text-decoration:inherit; }
 	left:0;
 	width:auto !important;
 	height:auto !important;
+	box-sizing:border-box; 
+	-moz-box-sizing:border-box;
 }
 
 .page {
