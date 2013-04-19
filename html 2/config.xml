@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Faversham Sample Application</name>
+
+<description>
+An android application.
+</description>
+
+<author href="http://www.rvpmedia.co.uk" email="apps@rvpmedia.co.uk">
+RVP Media
+</author>
+
+<icon src="icon.png" /> 
+
+<gap:splash src="splash.png" />
+
+<preference name="permissions" value="none"/>
+</widget>
