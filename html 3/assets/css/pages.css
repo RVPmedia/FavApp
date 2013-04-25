@@ -270,74 +270,74 @@ body { background:#ccffff; }
 #slider { width:1024px; height:768px; }
 .page { width:1024px; height:768px; background: transparent !important; }
 .paper-vertical { width:1024px; height:100%; }
-.paper-horizontal { width:8272px; height:768px; margin-top:-384px; }
+.paper-horizontal { width:4768px; height:768px; margin-top:-384px; }
 @media all and (max-height:768px) {
 	.paper-horizontal { margin:0;top:0;}
 }
 .mejs-audio {display:none;}
 #item3 {
-	width:265px !important;
-	height:450px !important;
-	left:666px !important;
-	top:275px !important;
+	width:138px !important;
+	height:235px !important;
+	left:373px !important;
+	top:143px !important;
 	background:url('../images/item3.png') no-repeat 0px 50%;
 }
 
 #item3:hover {
-	background:url('../images/item3.png') no-repeat -273px 50%;
+	background:url('../images/item3.png') no-repeat -146px 50%;
 }
 
 #item4 {
-	width:116px !important;
-	height:122px !important;
-	left:36px !important;
-	top:36px !important;
+	width:61px !important;
+	height:65px !important;
+	left:45px !important;
+	top:19px !important;
 	background:url('../images/item4.png') no-repeat 0px 50%;
 }
 
 #item5 {
-	width:116px !important;
-	height:122px !important;
-	left:872px !important;
-	top:36px !important;
+	width:61px !important;
+	height:65px !important;
+	left:481px !important;
+	top:19px !important;
 	background:url('../images/item5.png') no-repeat 0px 50%;
 }
 
 #item9 {
-	width:116px !important;
-	height:122px !important;
-	left:36px !important;
-	top:36px !important;
+	width:61px !important;
+	height:65px !important;
+	left:45px !important;
+	top:19px !important;
 	background:url('../images/item9.png') no-repeat 0px 50%;
 }
 
 #item10 {
-	width:116px !important;
-	height:122px !important;
-	left:872px !important;
-	top:36px !important;
+	width:61px !important;
+	height:65px !important;
+	left:481px !important;
+	top:19px !important;
 	background:url('../images/item10.png') no-repeat 0px 50%;
 }
 
 #item12 {
-	width:70px !important;
-	height:60px !important;
-	left:830px !important;
-	top:646px !important;
+	width:37px !important;
+	height:31px !important;
+	left:459px !important;
+	top:336px !important;
 }
 
 #item17 {
-	width:59px !important;
-	height:44px !important;
-	left:834px !important;
-	top:662px !important;
+	width:31px !important;
+	height:23px !important;
+	left:461px !important;
+	top:345px !important;
 }
 
 #item34 {
-	width:116px !important;
-	height:122px !important;
-	left:36px !important;
-	top:36px !important;
+	width:61px !important;
+	height:65px !important;
+	left:45px !important;
+	top:19px !important;
 	background:url('../images/item34.png') no-repeat 0px 50%;
 }
 #in5footer {display:none;}
