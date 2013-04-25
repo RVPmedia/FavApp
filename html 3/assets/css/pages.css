@@ -270,7 +270,7 @@ body { background:#ccffff; }
 #slider { width:1024px; height:768px; }
 .page { width:1024px; height:768px; background: transparent !important; }
 .paper-vertical { width:1024px; height:100%; }
-.paper-horizontal { width:9090px; height:768px; margin-top:-384px; }
+.paper-horizontal { width:8080px; height:768px; margin-top:-384px; }
 @media all and (max-height:768px) {
 	.paper-horizontal { margin:0;top:0;}
 }

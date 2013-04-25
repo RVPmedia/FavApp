@@ -217,7 +217,7 @@ $(function(){
 		}
 	});
 	if(multifile){
-		nav = { numPages:9,
+		nav = { numPages:8,
 		current:parseInt(location.href.split('/').pop().split('.html').join('')),
 		back:function(ref){nav.to(nav.current-1);},
 		next:function(ref){nav.to(nav.current+1);},
